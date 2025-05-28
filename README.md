@@ -35,7 +35,7 @@
 
 ##  Приклад візуалізацій
 
-![Тренд доходу](screenshots/revenue_trend.png)
+![ABC аналіз категорій](screenshots/ABC_by_order.png )
 ![Замовлення по днях тижня](screenshots/revenue_day_of_week.png)
 ![Частка категорій](screenshots/revenue_%_from_total.png)
 
